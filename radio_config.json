@@ -1,6 +1,6 @@
 {
-  "volume": 30,
-  "geometry": "635x600+1006+177",
+  "volume": 100,
+  "geometry": "635x600+530+95",
   "folders": [
     {
       "name": "Любими",
@@ -20,6 +20,14 @@
         [
           "https://bass-high.rautemusik.fm/listen",
           "RauteMusik BASS⭐"
+        ],
+        [
+          "http://play.global.audio/nrj128",
+          "radio energy⭐"
+        ],
+        [
+          "http://192.99.8.192:3522",
+          "bgl radio⭐"
         ]
       ],
       "is_favorite": true,
@@ -676,49 +684,6 @@
       "is_default": false
     },
     {
-      "name": "Бг",
-      "stations": [
-        [
-          "http://play.global.audio/nrj128",
-          "radio energy"
-        ],
-        [
-          "http://play.global.audio/city128",
-          "радио сити"
-        ],
-        [
-          "http://play.global.audio/bgradio128",
-          "бг радио"
-        ],
-        [
-          "https://stream.radio.co/s53f1b7497/listen",
-          "bg voice hit mix"
-        ],
-        [
-          "http://192.99.8.192:3522",
-          "bgl radio"
-        ],
-        [
-          "https://cdn.bweb.bg/radio/z-rock.mp3",
-          "radio zrock"
-        ],
-        [
-          "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_1AAC_H.aac",
-          "radio 1"
-        ],
-        [
-          "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_1_ROCKAAC_H.aac",
-          "radio 1 rock"
-        ],
-        [
-          "https://pulsar.atlantis.bg:8443/classica",
-          "classic a"
-        ]
-      ],
-      "is_favorite": false,
-      "is_default": false
-    },
-    {
       "name": "Ретро",
       "stations": [
         [
@@ -752,6 +717,49 @@
         [
           "https://disco.stream.laut.fm/disco",
           "Disco"
+        ]
+      ],
+      "is_favorite": false,
+      "is_default": false
+    },
+    {
+      "name": "Бг",
+      "stations": [
+        [
+          "http://play.global.audio/nrj128",
+          "radio energy"
+        ],
+        [
+          "http://play.global.audio/city128",
+          "радио сити"
+        ],
+        [
+          "http://play.global.audio/bgradio128",
+          "бг радио"
+        ],
+        [
+          "http://192.99.8.192:3522",
+          "bgl radio"
+        ],
+        [
+          "https://stream.radio.co/s53f1b7497/listen",
+          "bg voice hit mix"
+        ],
+        [
+          "https://cdn.bweb.bg/radio/z-rock.mp3",
+          "radio zrock"
+        ],
+        [
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_1AAC_H.aac",
+          "radio 1"
+        ],
+        [
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_1_ROCKAAC_H.aac",
+          "radio 1 rock"
+        ],
+        [
+          "https://pulsar.atlantis.bg:8443/classica",
+          "classic a"
         ]
       ],
       "is_favorite": false,
