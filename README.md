@@ -33,3 +33,19 @@
     }
   ]
 }
+```
+🚀 Ъпдейти
+Програмата автоматично проверява за нови версии при стартиране.
+
+🛠️ За разработчици
+
+git clone https://github.com/KostadinPl/Best-Radio-Ultimate.git
+cd Best-Radio-Ultimate
+pip install -r requirements.txt
+python radio_player.py
+
+📧 Контакт
+plevneliev88@gmail.com
+
+📜 Лиценз
+MIT License
