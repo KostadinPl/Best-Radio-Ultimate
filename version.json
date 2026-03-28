@@ -1,5 +1,5 @@
 {
-  "version": "1.6",
-  "download_url": "https://github.com/KostadinPl/Best-Radio-Ultimate/releases/download/v1.6/Best.Radio.Ultimate.exe",
+  "version": "1.7",
+  "download_url": "https://github.com/KostadinPl/Best-Radio-Ultimate/releases/download/v1.7/Best.Radio.Ultimate.exe",
   "release_notes": "📻 Best Radio Ultimate 1.7\n\n⚡ ОПТИМИЗАЦИЯ НА ПРОИЗВОДИТЕЛНОСТТА\n• Конфигурацията се записва само при затваряне\n• По-гладко движение на прозореца\n• Намалено натоварване на компютъра\n• По-бърза реакция при всички действия\n\n🛡️ ТРИСТЕПЕННА ЗАЩИТА НА КОНФИГУРАЦИЯТА\n• radio_config.json – основен файл\n• radio_config.backup.json – резервно копие\n• radio_config.backup.critical.json – критично копие (последна стабилна версия)\n\n📥 НОВ БУТОН \"СВАЛИ СТАНЦИИ\"\n• Изтегля най-новите станции\n• Добавят се само нови станции\n• Любимите станции не се пипат\n• Показва детайлна статистика\n\n🔧 ПОДОБРЕН ЪПДЕЙТ\n• Нормално затваряне преди ъпдейт\n• Няма остатъчни временни папки\n• По-бърз и надежден\n\n🎨 ВИЗУАЛНИ ПОДОБРЕНИЯ\n• Всички диалози в тъмна тема\n• Центрирани прозорци\n• Бутони с hover ефект\n\n🎧 Насладете се на слушане!"
 }
