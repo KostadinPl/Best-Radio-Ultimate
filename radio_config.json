@@ -1,25 +1,25 @@
 {
-  "volume": 100,
-  "geometry": "635x600+583+183",
+  "volume": 50,
+  "geometry": "600x620+956+171",
   "folders": [
     {
       "name": "Любими",
       "stations": [
         [
-          "https://stream.laut.fm/hardstylefm",
-          "Hardstyle FM⭐"
-        ],
-        [
           "http://harder-high.rautemusik.fm/",
           "RauteMusik HARDER⭐"
         ],
         [
-          "http://stream.blackbeats.fm/",
-          "BlackBeats.FM⭐"
+          "https://stream.laut.fm/hardstylefm",
+          "Hardstyle FM⭐"
         ],
         [
-          "https://bass-high.rautemusik.fm/listen",
+          "http://bass-high.rautemusik.fm/listen",
           "RauteMusik BASS⭐"
+        ],
+        [
+          "http://stream.blackbeats.fm/",
+          "BlackBeats.FM⭐"
         ],
         [
           "http://play.global.audio/nrj128",
@@ -37,12 +37,16 @@
       "name": "Хардстайл",
       "stations": [
         [
-          "https://stream.laut.fm/hardstyle",
-          "Hardstyle"
+          "http://harder-high.rautemusik.fm/",
+          "RauteMusik HARDER"
         ],
         [
           "https://stream.laut.fm/hardstylefm",
           "Hardstyle FM"
+        ],
+        [
+          "https://stream.laut.fm/hardstyle",
+          "Hardstyle"
         ],
         [
           "https://stream.realhardstyle.nl/",
@@ -71,10 +75,6 @@
         [
           "https://stream.laut.fm/hardstyle-and-hardcore",
           "Hardstyle And Hardcore"
-        ],
-        [
-          "http://harder-high.rautemusik.fm/",
-          "RauteMusik HARDER"
         ],
         [
           "https://stream.sunshine-live.de/hardstyle/mp3-192/",
@@ -111,6 +111,56 @@
         [
           "https://streams.ilovemusic.de/iloveradio21.mp3",
           "I Love Hardstyle"
+        ]
+      ],
+      "is_favorite": false,
+      "is_default": false
+    },
+    {
+      "name": "Хаус",
+      "stations": [
+        [
+          "https://stream.laut.fm/1st-house",
+          "1st House Radio"
+        ]
+      ],
+      "is_favorite": false,
+      "is_default": false
+    },
+    {
+      "name": "Ретро",
+      "stations": [
+        [
+          "https://stream.zeno.fm/xxpw898c4p8uv",
+          "Retro FM"
+        ],
+        [
+          "http://topradio.uno:8066/stream",
+          "Retro Dance fm"
+        ],
+        [
+          "https://retro-radio.stream.laut.fm/retro-radio",
+          "Retro-Radio"
+        ],
+        [
+          "https://stream.zeno.fm/fe7s7c5mu78tv",
+          "Retro 70s 80s 90s"
+        ],
+        [
+          "https://retro.stream.laut.fm/retro",
+          "Retro"
+        ],
+        [
+          "https://stream.laut.fm/discomixradio",
+          "Discomix-Radio"
+        ],
+        [
+          "http://tx-2.retro-radio.dk/TX-2",
+          "Retro-Radio Millennium"
+        ],
+        [
+          "https://disco.stream.laut.fm/disco",
+          "Disco"
         ]
       ],
       "is_favorite": false,
@@ -684,45 +734,6 @@
       "is_default": false
     },
     {
-      "name": "Ретро",
-      "stations": [
-        [
-          "https://stream.zeno.fm/xxpw898c4p8uv",
-          "Retro FM"
-        ],
-        [
-          "http://topradio.uno:8066/stream",
-          "Retro Dance fm"
-        ],
-        [
-          "https://retro-radio.stream.laut.fm/retro-radio",
-          "Retro-Radio"
-        ],
-        [
-          "https://stream.zeno.fm/fe7s7c5mu78tv",
-          "Retro 70s 80s 90s"
-        ],
-        [
-          "https://retro.stream.laut.fm/retro",
-          "Retro"
-        ],
-        [
-          "https://stream.laut.fm/discomixradio",
-          "Discomix-Radio"
-        ],
-        [
-          "http://tx-2.retro-radio.dk/TX-2",
-          "Retro-Radio Millennium"
-        ],
-        [
-          "https://disco.stream.laut.fm/disco",
-          "Disco"
-        ]
-      ],
-      "is_favorite": false,
-      "is_default": false
-    },
-    {
       "name": "Бг",
       "stations": [
         [
@@ -777,7 +788,7 @@
           "Crazy Black-Radio"
         ],
         [
-          "https://bass-high.rautemusik.fm/listen",
+          "http://bass-high.rautemusik.fm/listen",
           "RauteMusik BASS"
         ],
         [
@@ -878,6 +889,17 @@
         [
           "https://live.stream.radioarabella.de/radioarabella-disconight/stream/mp3",
           "radio arabella disco night"
+        ]
+      ],
+      "is_favorite": false,
+      "is_default": false
+    },
+    {
+      "name": "test",
+      "stations": [
+        [
+          "http://test",
+          "test"
         ]
       ],
       "is_favorite": false,
