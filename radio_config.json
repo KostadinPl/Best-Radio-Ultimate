@@ -3,37 +3,6 @@
   "geometry": "600x620+601+199",
   "folders": [
     {
-      "name": "Любими",
-      "stations": [
-        [
-          "http://harder-high.rautemusik.fm/",
-          "RauteMusik HARDER⭐"
-        ],
-        [
-          "https://stream.laut.fm/hardstylefm",
-          "Hardstyle FM⭐"
-        ],
-        [
-          "http://bass-high.rautemusik.fm/listen",
-          "RauteMusik BASS⭐"
-        ],
-        [
-          "http://stream.blackbeats.fm/",
-          "BlackBeats.FM⭐"
-        ],
-        [
-          "http://play.global.audio/nrj128",
-          "radio energy⭐"
-        ],
-        [
-          "http://192.99.8.192:3522",
-          "bgl radio⭐"
-        ]
-      ],
-      "is_favorite": true,
-      "is_default": false
-    },
-    {
       "name": "Хардстайл",
       "stations": [
         [
